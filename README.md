@@ -29,24 +29,24 @@ Supported species.
 Currently we support 16 species. They are:
 
 
-   |Name           |                  |Symbol|
-   |---------------|----------------  |-----:|
-   |B.subtilis     | bacteria         | BBS  |
-   |G.gallus       | chicken          | GG   |
-   |A.thaliana     | crest            | AT   |
-   |C.familiaris   | dog              | CFI  |
-   |E.coli         | ecoli            | BEC  |
-   |D.melanogaster | fruitfly         | DM   |
-   |F.rubripes     | fugu             | FR   |
-   |A.nidulans     | fungi            | AN   |
-   |H.sapiens      | human            | HS   |
-   |A.gambiae      | mos_malar        | AG   |
-   |M.musculus     | mouse            | MM   |
-   |R.norvegicus   | rat              | RN   |
-   |Random Sequence| synthetic        | SYNT |
-   |C.elegans      | worm             | CE   |
-   |S.cerevisiae   | yeast            | SC   |
-   |D.rerio        | zebrafish        | DR   |
+|Name           |                  |Symbol|
+|---------------|----------------  |-----:|
+|B.subtilis     | bacteria         | BBS  |
+|G.gallus       | chicken          | GG   |
+|A.thaliana     | crest            | AT   |
+|C.familiaris   | dog              | CFI  |
+|E.coli         | ecoli            | BEC  |
+|D.melanogaster | fruitfly         | DM   |
+|F.rubripes     | fugu             | FR   |
+|A.nidulans     | fungi            | AN   |
+|H.sapiens      | human            | HS   |
+|A.gambiae      | mos_malar        | AG   |
+|M.musculus     | mouse            | MM   |
+|R.norvegicus   | rat              | RN   |
+|Random Sequence| synthetic        | SYNT |
+|C.elegans      | worm             | CE   |
+|S.cerevisiae   | yeast            | SC   |
+|D.rerio        | zebrafish        | DR   |
 
 ## To run the program simple issue the following command:
 
