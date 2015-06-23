@@ -56,7 +56,7 @@ For example
 
     prompt> perl run_all.pl test.fasta HS
 
-Output will be printed to STDOUT.
+Output will be printed to `STDOUT`.
 
 ## Publication
 Edward Wijaya, Kanagasabai Rajaraman, Siu Yiu Ming and Sung Wing Kin, 
