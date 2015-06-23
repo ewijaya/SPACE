@@ -21,7 +21,6 @@ It runs in UNIX/Linux system, where Perl version 5.8.4 and above should be insta
 
 Currently we only accept DNA sequences. Maximum number of sequence
 allowed = 1000 each of length 5000bp.
-
 Before running the program, all the input files should be stored in 
 `files/` directory. File extension accepted include: `.fasta`, `.fa`, `.txt`
 
@@ -31,7 +30,7 @@ Currently we support 16 species. They are:
 
 
    |Name           |                  |Symbol|
-   |---------------|:----------------:|-----:|
+   |---------------|----------------  |-----:|
    |B.subtilis     | bacteria         | BBS  |
    |G.gallus       | chicken          | GG   |
    |A.thaliana     | crest            | AT   |
@@ -51,15 +50,15 @@ Currently we support 16 species. They are:
 
 ## To run the program simple issue the following command:
 
-   prompt > perl run_all.pl [filename] [species code]
+    prompt > perl run_all.pl [filename] [species code]
 
 For example
 
-   prompt> perl run_all.pl test.fasta HS
+    prompt> perl run_all.pl test.fasta HS
 
 Output will be printed to STDOUT.
 
 ## Publication
 Edward Wijaya, Kanagasabai Rajaraman, Siu Yiu Ming and Sung Wing Kin, 
 *Detection of generic spaced motifs using submotif pattern mining*, (2007),
-Bioinformatics, 15;23(12):1476-85.[PMID:17483509](http://www.ncbi.nlm.nih.gov/pubmed/17483509) 
+Bioinformatics, 15;23(12):1476-85. [PMID:17483509](http://www.ncbi.nlm.nih.gov/pubmed/17483509) 
